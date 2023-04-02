@@ -1,0 +1,23 @@
+0x00: EMPYREANBINARY: Empyrean Binary: Boosts ALL user's stats 2 stages when user's health is LOW.*
+0X01: SHARPBLADE: Sharp Blade: Boosts the power of cutting moves by 1 stage.
+0x02: BLUNTSHIELD: Blunt Shield: Boosts the power of shield moves by 1 stage.
+0x03: WILDFIST: Wild Fist: Boosts the power of punching moves by 1 stage.
+0x04: CALMHEART: Calm Heart: Boosts the power of healing moves by 1 stage.
+0x05: FOCUSEDEYE: Focused Eye: Boosts the ACC of specialist moves by 1 stage.
+0x06: BARRAGE: Barrage: Increase the chance of critical hits by 1 stage every time a move lands.
+0x07: SERENEGRACE: Serene Grace: Boosts the user's ACC and EVA by 1 stage when user's health is HALF.
+0x08: HONEDBLADE: Honed Blade: Boosts the user's ATK while reducing the user's DEF by 1 stage each round.
+0x0A: LARGESHIELD: Large Shield: Boosts the user and allies' DEF 1 stage.
+0x0B: JACKOFTRADES: Jack of Trades: Gives STAB damage for every move the user uses.
+0x0C: SECONDLIFE: Second Life: Heals the user 50% of their full hp when user's health is LOW.
+0x0D: RIGHTEOUSINDIGNATION: Righteous Indignation: Boosts the user's ATK by 3 stages when the user is facing opponents with the character type 'BOSS'
+0x0E: IRONWILL: Iron Will: User is uneffected by stat or status changing moves.
+0x0F: CRITICALROLE: Critical Role: Boosts the user's ACC and CRT for every move by 2 stages.
+0x10: HARVESTER: Harvester: Gains 5% of their health every time the user lands an attack.
+0x11: UNHOLYBERSERKER: Unholy Berserker: Boosts the user's ATK and SPD by 1 stage when hit with move, but also reduces their DEF 2 stages.
+0x12: HARBINGER: Harbinger: A Dark Agent informs the user of the outcome, increasing the user's EVA by 3 stages.
+0x13: KNIGHTSDISHONOR: Knight's Dishonor: Boosts the user's ATK stat by 6 stages, but suffers heavy recoil with every attack.
+0x14: SOURCE: Source: Detects all opponents' and all opponents items' abilities.
+0x15: DREADFULAURA: Dreadful Aura: The user's menacing aura inflicts all opponents with STUN. This does not work against Iron Will.
+0x16: ANTIBODY: Antibody: If the user was poisoned during the battle and cured, they cannot be poisoned again.
+0x17: 
